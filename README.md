@@ -1,6 +1,4 @@
-# REGISTRO PRESENZE
-
-Web Application per la registrazione della presenza atleti ed il conteggio ore istruttori.
+# ASD - Attendance Register
 
 **USERS:**
 - Admin *(full access)*
