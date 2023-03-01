@@ -33,10 +33,10 @@
 - **Create a Github Project** connected to the repository
 - Read **carefully** the task description
 - Analyze the task, and **create relative subtasks** to track any requirement and knowledge needed
-- Define a **deadline for the main task**
+- Define a **deadline** for the main task
 - **Create Issue** connected to the Task and **assign** it to a team **member**
 - When working on a task, move it to the **In progress** column
-- After each task completion, **move it to the "Done" column** and **Opena a PR** *(Pull Request)* that will have to be validated by the **Team Lead**
+- After each task completion, **move it to the Done column** and **ppen a PR** *(Pull Request)* that will have to be validated by the **Team Lead**
 - Once a **POC** *(Proof of Concept)* is created the project needs to be implemented using the **CI**, so **every PR** needs to be **tested**
 - The **entire project** must be:
   - implemented and **tested** with more than **85% coverage**
