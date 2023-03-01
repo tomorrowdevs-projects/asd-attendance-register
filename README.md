@@ -24,3 +24,21 @@
   - **confirm** what was entered
   - make **changes** to the entered data **up to 7 days** from the date
   - view the attendance list for each **month** and be able to **generate a PDF file**
+
+
+## RULES to follow
+- Create an **ADR** *(Architectural Decision Record)* with a description of the **implementation choices**
+- **Provide a Flowchart of the project** 
+- **Create a Public** Repository
+- **Create a Github Project** connected to the repository
+- Read **carefully** the task description
+- Analyze the task, and **create relative subtasks** to track any requirement and knowledge needed
+- Define a **deadline for the main task**
+- **Create Issue** connected to the Task and **assign** it to a team **member**
+- When working on a task, move it to the **In progress** column
+- After each task completion, **move it to the "Done" column** and **Opena a PR** *(Pull Request)* that will have to be validated by the **Team Lead**
+- Once a **POC** *(Proof of Concept)* is created the project needs to be implemented using the **CI**, so **every PR** needs to be **tested**
+- The **entire project** must be:
+  - implemented and **tested** with more than **85% coverage**
+  - **fully described** in the **README** file
+  - **deployed** and work on both **desktop and mobile**
