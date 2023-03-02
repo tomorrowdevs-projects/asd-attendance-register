@@ -9,9 +9,9 @@
 - Ability to:
   - insert, delete, and edit **trainers**
   - insert, delete, and edit **athletes**
-  - assign **athletes** to **one or more categories** (example categories_A, categories_B)
-  - assign **trainer** to **one or more categories** (example categories_A, categories_B)
-  - view the list of **athletes** and **trainers**
+  - assign **athletes** to **one or more categories** (example category_A, category_B)
+  - assign **trainer** to **one or more categories** (example category_A, category_B)
+  - view the list of **athletes**, **categories** and **trainers**
   - view the **monthly hours** for **each trainer**, *with the option of generating a pdf file*
   - view a **monthly report "trainer : hours/monthly", **with the option of generating a pdf file**
 
